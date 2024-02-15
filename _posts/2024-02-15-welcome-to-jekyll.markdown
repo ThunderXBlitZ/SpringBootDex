@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: libdoc/page
 title:  "Welcome to Jekyll!"
 date:   2024-02-15 20:06:10 +0800
 categories: jekyll update

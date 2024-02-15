@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: libdoc/page
 title: About
 permalink: /about/
 ---
